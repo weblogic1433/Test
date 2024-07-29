@@ -9,3 +9,7 @@ welcome to git
 hi
 this is ramprasad
 welcome to git
+
+Hello Weblogic
+
+weblogic is mediidleware programing
