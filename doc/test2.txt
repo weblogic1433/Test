@@ -6,3 +6,6 @@ hello
 
 welcome to git
  Git program is one location another location
+hi
+this is ramprasad
+welcome to git
